@@ -5,6 +5,6 @@ What causes ROP? ROP occurs when abnormal blood vessels grow and spread througho
 The solution to this is getting the best  quality of images and detecting those images are affected of ROP by visuallization and for further usage developing training and testing of the images using cnn and aiml techniques 
 
 
-Here in enhancement1 file is google colab file whcich containts output of retinal images
-        and the images.zip consists of random outputs of the retina 
-        from this technique we can find or visualize the rop affected retina in stage-1 (40%) stage 2(60-70%)
+Here I included enhancement1 google colab file whcich containts code and output of retinal images
+                and the images.zip consists of random outputs of the retina 
+                from this technique we can find or visualize the rop affected retina in stage-1 (40%) stage 2(60-70%)
