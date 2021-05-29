@@ -6,9 +6,13 @@ The solution to this is getting the best  quality of images and detecting those 
 
 
 Here I included enhancement1 google colab file whcich containts code and output of retinal images
+
                 and the images.zip consists of random outputs of the retina 
+                
                 from this technique we can find or visualize the rop affected retina in stage-1 (40%) stage 2(60-70%)
+                
                 login zip file containts the basic python login web page  file using kivy 
+                
                 retina zip  file consits of images of rop 
                 image1 - Detection of stage1 rop
                 image2 - gray scale image
