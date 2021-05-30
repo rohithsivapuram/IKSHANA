@@ -18,4 +18,4 @@ Here I included enhancement1 google colab file whcich containts code and output 
                 image2 - gray scale image
                 image3 - enhancement of poor image
 apk here is a login page of a docter or an asha worker where he can add his credientials 
-for further approch if a docter adds the image of retina it enhances the image of infants and gets the different images 
+for further approch if a docter adds the image of retina it enhances the image of infants and gets the different images  and for enhancement and getting different images the backend code which was used in goolecolab was used 
